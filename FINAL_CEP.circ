@@ -78,19 +78,19 @@
     <comp lib="5" loc="(960,700)" name="7-Segment Display">
       <a name="label" val="State"/>
     </comp>
-    <comp lib="8" loc="(858,107)" name="Text">
+    <comp lib="8" loc="(855,105)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="Sample Input Stream (X)   0 0 1 0 0 1 1 0 0 1 0 1 0"/>
     </comp>
-    <comp lib="8" loc="(891,169)" name="Text">
+    <comp lib="8" loc="(890,165)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="Current State (S)   1 2 3 1 2 3 0 1 2 3 1 3 1"/>
     </comp>
-    <comp lib="8" loc="(924,138)" name="Text">
+    <comp lib="8" loc="(920,135)" name="Text">
       <a name="font" val="SansSerif bold 20"/>
       <a name="text" val="Output (Y)   0 0 1 1 0 1 0 0 0 1 1 0 1"/>
     </comp>
-    <comp lib="8" loc="(949,205)" name="Text">
+    <comp lib="8" loc="(945,205)" name="Text">
       <a name="text" val="                                         "/>
     </comp>
     <comp loc="(560,440)" name="FSM_main"/>
